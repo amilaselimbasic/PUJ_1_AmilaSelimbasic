@@ -1,0 +1,8 @@
+Ukupni prihod: 3300.00
+Ukupni rashod: 1700.00
+Stanje: 1600.00
+Rashodi po kategorijama:
+HRANA: 350.00
+ZABAVA: 500.00
+RACUNI: 650.00
+PRIJEVOZ: 200.00
