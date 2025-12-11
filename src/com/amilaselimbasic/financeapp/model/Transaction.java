@@ -54,6 +54,7 @@ public class Transaction {
         return description;
     }
 
+    
     public void setDescription(String description) {
         // običan tekst
         this.description = description;
